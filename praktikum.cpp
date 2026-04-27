@@ -24,4 +24,6 @@ public:
         cout << "Luas Layang-Layang: " << hitungLuas() << endl;
     }
 
-   
+    friend class BelahKetupat;
+};
+
