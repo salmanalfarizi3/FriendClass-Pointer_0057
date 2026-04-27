@@ -10,4 +10,5 @@ private:
 public:
     void input() {
         cout << "[Input Layang-Layang]\n";
-       
+        cout << "Masukkan Diagonal 1: "; cin >> d1;
+        
