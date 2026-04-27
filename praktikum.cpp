@@ -16,4 +16,8 @@ public:
         cout << "Masukkan Sisi Miring 2: "; cin >> s2;
     }
 
+    double hitungLuas() {
+        return 0.5 * d1 * d2;
+    }
+
    
