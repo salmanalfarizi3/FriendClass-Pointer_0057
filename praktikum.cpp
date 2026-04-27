@@ -31,3 +31,12 @@ class BelahKetupat {
 private:
     double d1, d2, sisi;
 
+public:
+    void input() {
+        cout << "\n[Input Belah Ketupat]\n";
+        cout << "Masukkan Diagonal 1: "; cin >> d1;
+        cout << "Masukkan Diagonal 2: "; cin >> d2;
+        cout << "Masukkan Sisi: "; cin >> sisi;
+    }
+
+  
