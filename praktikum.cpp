@@ -12,3 +12,5 @@ public:
         cout << "[Input Layang-Layang]\n";
         cout << "Masukkan Diagonal 1: "; cin >> d1;
         cout << "Masukkan Diagonal 2: "; cin >> d2;
+        cout << "Masukkan Sisi Miring 1: "; cin >> s1;
+        
