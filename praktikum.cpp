@@ -13,4 +13,7 @@ public:
         cout << "Masukkan Diagonal 1: "; cin >> d1;
         cout << "Masukkan Diagonal 2: "; cin >> d2;
         cout << "Masukkan Sisi Miring 1: "; cin >> s1;
-        
+        cout << "Masukkan Sisi Miring 2: "; cin >> s2;
+    }
+
+   
